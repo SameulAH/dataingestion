@@ -1,0 +1,57 @@
+{
+    "data": {
+        "type": "person",
+        "households": "",
+        "household_org": "1001-10",
+        "first_name": "Mark",
+        "last_name": "Fisher",
+        "last_name_changed": false,
+        "last_name_notes": null,
+        "birth_date": "27/09/1917",
+        "birth_date_org": "27/09/1917",
+        "birth_date_notes": null,
+        "birth_place": "Rivertown",
+        "birth_place_alt": null,
+        "birth_country": "Adventureland",
+        "birth_country_alt": null,
+        "death_date": null,
+        "death_date_org": null,
+        "death_date_notes": null,
+        "death_place": null,
+        "death_place_alt": null,
+        "death_country": null,
+        "death_country_alt": null,
+        "nationality": "Adventurer",
+        "nationality_notes": null,
+        "convoy": null,
+        "convoy_place": null,
+        "convoy_date": null,
+        "enter_place": null,
+        "enter_date": "22/03/1940",
+        "exit_before_19411015_place": null,
+        "exit_before_19411015_date": null,
+        "exit_19400510_to_19411015_place": "Pinetown",
+        "exit_19400510_to_19411015_date": "18/06/1941",
+        "address_before_19400510": null,
+        "professions": "musician"
+    },
+    "title": "Mark Fisher",
+    "slug": "mark-fisher",
+    "related-places": [
+        {
+            "geonameId": 202020,
+            "toponymName": "Rivertown",
+            "relatedField": "birth_place"
+        },
+        {
+            "geonameId": 212121,
+            "toponymName": "Republic of Adventureland",
+            "relatedField": "birth_country"
+        },
+        {
+            "geonameId": 222222,
+            "toponymName": "Pinetown",
+            "relatedField": "exit_19400510_to_19411015_place"
+        }
+    ]
+}

@@ -1,4 +1,5 @@
-{
+[
+  {
     "data": {
       "type": "person",
       "households": "",
@@ -180,6 +181,4 @@
       {"geonameId": 252525, "toponymName": "Riverbank", "relatedField": "exit_19411016_to_19440910_place"}
     ]
   }
-}
-
-
+]

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "type": "person",
+        "households": "",
+        "household_org": "1001-11",
+        "first_name": "Alice",
+        "last_name": "Walker",
+        "last_name_changed": false,
+        "last_name_notes": null,
+        "birth_date": "15/04/1919",
+        "birth_date_org": "15/04/1919",
+        "birth_date_notes": null,
+        "birth_place": "Evergreen",
+        "birth_place_alt": null,
+        "birth_country": "Fairyland",
+        "birth_country_alt": null,
+        "death_date": null,
+        "death_date_org": null,
+        "death_date_notes": null,
+        "death_place": null,
+        "death_place_alt": null,
+        "death_country": null,
+        "death_country_alt": null,
+        "nationality": "Fairylander",
+        "nationality_notes": null,
+        "convoy": null,
+        "convoy_place": null,
+        "convoy_date": null,
+        "enter_place": null,
+        "enter_date": "30/09/1941",
+        "exit_before_19411015_place": null,
+        "exit_before_19411015_date": null,
+        "exit_19400510_to_19411015_place": null,
+        "exit_19400510_to_19411015_date": null,
+        "exit_19411016_to_19440910_place": "Riverbank",
+        "exit_19411016_to_19440910_date": "02/02/1944",
+        "address_before_19400510": null,
+        "professions": "doctor"
+    },
+    "title": "Alice Walker",
+    "slug": "alice-walker",
+    "related-places": [
+        {
+            "geonameId": 232323,
+            "toponymName": "Evergreen",
+            "relatedField": "birth_place"
+        },
+        {
+            "geonameId": 242424,
+            "toponymName": "Republic of Fairyland",
+            "relatedField": "birth_country"
+        },
+        {
+            "geonameId": 252525,
+            "toponymName": "Riverbank",
+            "relatedField": "exit_19411016_to_19440910_place"
+        }
+    ]
+}

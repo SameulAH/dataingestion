@@ -1,0 +1,57 @@
+{
+    "data": {
+        "type": "person",
+        "households": "",
+        "household_org": "1001-9",
+        "first_name": "Nina",
+        "last_name": "Harper",
+        "last_name_changed": false,
+        "last_name_notes": null,
+        "birth_date": "05/01/1923",
+        "birth_date_org": "05/01/1923",
+        "birth_date_notes": null,
+        "birth_place": "Lakewood",
+        "birth_place_alt": null,
+        "birth_country": "Wonderland",
+        "birth_country_alt": null,
+        "death_date": null,
+        "death_date_org": null,
+        "death_date_notes": null,
+        "death_place": null,
+        "death_place_alt": null,
+        "death_country": null,
+        "death_country_alt": null,
+        "nationality": "Wonderlander",
+        "nationality_notes": null,
+        "convoy": null,
+        "convoy_place": null,
+        "convoy_date": null,
+        "enter_place": null,
+        "enter_date": "12/07/1939",
+        "exit_before_19411015_place": null,
+        "exit_before_19411015_date": null,
+        "exit_19400510_to_19411015_place": "Sunset City",
+        "exit_19400510_to_19411015_date": "01/11/1941",
+        "address_before_19400510": null,
+        "professions": "artist"
+    },
+    "title": "Nina Harper",
+    "slug": "nina-harper",
+    "related-places": [
+        {
+            "geonameId": 171717,
+            "toponymName": "Lakewood",
+            "relatedField": "birth_place"
+        },
+        {
+            "geonameId": 181818,
+            "toponymName": "Republic of Wonderland",
+            "relatedField": "birth_country"
+        },
+        {
+            "geonameId": 191919,
+            "toponymName": "Sunset City",
+            "relatedField": "exit_19400510_to_19411015_place"
+        }
+    ]
+}

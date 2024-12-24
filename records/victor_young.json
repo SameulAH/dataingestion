@@ -1,0 +1,57 @@
+{
+    "data": {
+        "type": "person",
+        "households": "",
+        "household_org": "1001-8",
+        "first_name": "Victor",
+        "last_name": "Young",
+        "last_name_changed": false,
+        "last_name_notes": null,
+        "birth_date": "30/06/1912",
+        "birth_date_org": "30/06/1912",
+        "birth_date_notes": null,
+        "birth_place": "Mountainview",
+        "birth_place_alt": null,
+        "birth_country": "Mysticland",
+        "birth_country_alt": null,
+        "death_date": null,
+        "death_date_org": null,
+        "death_date_notes": null,
+        "death_place": null,
+        "death_place_alt": null,
+        "death_country": null,
+        "death_country_alt": null,
+        "nationality": "Mystican",
+        "nationality_notes": null,
+        "convoy": null,
+        "convoy_place": null,
+        "convoy_date": null,
+        "enter_place": null,
+        "enter_date": "10/02/1938",
+        "exit_before_19411015_place": null,
+        "exit_before_19411015_date": null,
+        "exit_19400510_to_19411015_place": "Forestville",
+        "exit_19400510_to_19411015_date": "17/05/1941",
+        "address_before_19400510": null,
+        "professions": "carpenter"
+    },
+    "title": "Victor Young",
+    "slug": "victor-young",
+    "related-places": [
+        {
+            "geonameId": 141414,
+            "toponymName": "Mountainview",
+            "relatedField": "birth_place"
+        },
+        {
+            "geonameId": 151515,
+            "toponymName": "Republic of Mysticland",
+            "relatedField": "birth_country"
+        },
+        {
+            "geonameId": 161616,
+            "toponymName": "Forestville",
+            "relatedField": "exit_19400510_to_19411015_place"
+        }
+    ]
+}
